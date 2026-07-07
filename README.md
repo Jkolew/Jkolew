@@ -83,7 +83,7 @@
 
 <div align="center">
 
-*(마지막에 넣고 싶은 한 줄 문구를 적어주세요)*
+*실패를 두려워하지 않고, 오늘도 한 걸음씩 나아갑니다.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jkolew&color=blue&style=flat)
 
