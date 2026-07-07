@@ -63,21 +63,21 @@
 
 ### Featured Projects
 
-> **firestudio** — [repo](https://github.com/Jkolew/firestudio)
+> **CarNeRF** — [repo](https://github.com/Jkolew/CarNeRF)
 >
-> (프로젝트 설명 적어주세요)
+> Gaussian Splatting 기반 중고차 3D 모델링과 AI 외관 결함 자동 탐지로, 신뢰도 높은 데이터 기반 중고차 가치 평가를 제공하는 Vision AI 플랫폼
 
 > **safety-map** — [repo](https://github.com/Jkolew/safety-map)
 >
-> (프로젝트 설명 적어주세요)
+> 편의점이라는 숨겨진 안전지대를 활용한 안심 보행경로 안내 서비스 — 편의점·경찰서·소방서·CCTV·보안등 데이터로 지역 안전도를 예측하고 가장 안전한 경로를 안내
 
-> **hackerton** — [repo](https://github.com/Jkolew/hackerton)
+> **Capstone2_HelloKitty** — [repo](https://github.com/Jkolew/Capstone2_HelloKitty)
 >
-> (프로젝트 설명 적어주세요)
+> 점주가 쉽게 이해하고 바로 실행할 수 있는 'AI 마케팅 비서' — 데이터 기반으로 소상공인 맞춤형 마케팅 전략을 자동 생성
 
-> **person** — [repo](https://github.com/Jkolew/person)
+> **firestudio** — [repo](https://github.com/Jkolew/firestudio)
 >
-> (프로젝트 설명 적어주세요)
+> 오늘 하루를 글로 적으면 생성형 AI가 감정과 장면을 분석해 캐릭터 애니메이션으로 만들어주는 감성 일기 서비스
 
 ---
 
