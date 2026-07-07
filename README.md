@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there, I'm Jkolew
+# Hey there, I'm YoungWoo Kim
 
 **`Data Scientist` · `AI / ML Engineer`**
 
-*"Do it better"*
+*"Failure creates a better success"*
 
 [![GitHub](https://img.shields.io/badge/-Jkolew-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jkolew)
 [![Email](https://img.shields.io/badge/-an902047@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:an902047@naver.com)
@@ -18,8 +18,8 @@
 
 ### About Me
 
-(여기에 소속/학교/소개 한두 줄 적어주세요)
-**Data Science**와 **AI**를 중심으로 공부하고 있으며, 데이터로 실제 문제를 해결하는 것에 관심이 많습니다.
+수원대학교에서 **데이터과학**을 공부하고 있는 김영우입니다.
+**AI**로 실제 문제를 해결하는 것에 관심이 많습니다.
 
 - (관심 분야 1 적어주세요)
 - (관심 분야 2 적어주세요)
@@ -31,9 +31,9 @@
 
 | | Area | Detail |
 |---|---|---|
-| :mortar_board: | **(목표 카테고리 1)** | (세부 내용 적어주세요) |
-| :bar_chart: | **(목표 카테고리 2)** | (세부 내용 적어주세요) |
-| :microscope: | **(목표 카테고리 3)** | (세부 내용 적어주세요) |
+| :car: | **Startup** | Vision AI 기반 중고차 상태 분석 플랫폼, 차량 외관 결함 자동 탐지, 데이터 기반 중고차 가치 평가 |
+| :rotating_light: | **Safety Mapping** | 편의점 · 경찰서 · 소방서 등 위치 데이터를 활용한 생활 안전 지도 서비스, 위치 기반 안전 인프라 시각화 및 최단 대피 경로 안내 |
+| :closed_book: | **AI Diary** | 생성형 AI를 활용한 나만의 다이어리 서비스 개발, 사용자의 하루를 바탕으로 감정 기록 및 일기 자동 생성 |
 
 ---
 
