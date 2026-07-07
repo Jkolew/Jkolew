@@ -67,7 +67,7 @@
 >
 > (프로젝트 설명 적어주세요)
 
-> **capstone** — [repo](https://github.com/Jkolew/capstone)
+> **safety-map** — [repo](https://github.com/Jkolew/safety-map)
 >
 > (프로젝트 설명 적어주세요)
 
